@@ -8,7 +8,7 @@
 <body>
 <center>
 <body bgcolor= "beige">
-<audio src= "<iframe width="560" height="315" src="https://www.youtube.com/embed/sBWesVezIrc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" controls </audio>
+<audio src= "https://www.youtube.com/embed/sBWesVezIrc"  controls </audio>
 </font> 
 </center>
 <p> 
